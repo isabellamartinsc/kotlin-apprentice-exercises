@@ -1,4 +1,4 @@
-package sectionone.miniexercises
+package sectionone
 
 fun main() {
     //Expressions, variables and constants

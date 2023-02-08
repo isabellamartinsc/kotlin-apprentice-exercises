@@ -1,4 +1,4 @@
-package sectionone.miniexercises
+package sectionone
 
 import kotlin.math.PI
 import kotlin.math.pow

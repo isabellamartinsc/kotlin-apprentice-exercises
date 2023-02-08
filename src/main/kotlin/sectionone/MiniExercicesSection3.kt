@@ -1,4 +1,4 @@
-package sectionone.miniexercises
+package sectionone
 
 fun main() {
 //Types & Operations
